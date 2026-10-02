@@ -1,4 +1,5 @@
 {
   "navigationFallback": { "rewrite": "/index.html" },
-  "mimeTypes": { ".html": "text/html; charset=utf-8" }
+  "mimeTypes": { ".html": "text/html; charset=utf-8" },
+  "globalHeaders": { "Cache-Control": "no-cache" }
 }
